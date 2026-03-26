@@ -1,4 +1,4 @@
-# # Vultr Cloud Hosting Review: Starting at $2.50/mo, 32 Global Data Centers, New VX1 Plans Up to 82% Better Performance Per Dollar
+# Vultr Cloud Hosting Review: Starting at $2.50/mo, 32 Global Data Centers, New VX1 Plans Up to 82% Better Performance Per Dollar
 
 So here's the thing about cloud hosting — most people end up paying way more than they need to. You either go with the big names (AWS, Google Cloud, Azure) and get sticker shock every month, or you hunt for something cheaper and worry about whether your server's going to fall over at 2am.
 
